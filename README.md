@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 # AWI Nearrealtime SOS
 
 Custom backend of the [52°North SOS](https://github.com/52North/SOS) for the AWI NearRealTime database with support for the following operations:
